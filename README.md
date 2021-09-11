@@ -1,6 +1,7 @@
 # Crappyshark
 
-![Crappyshark listening netcat's packets sending a file containing hello's on localhost](https://user-images.githubusercontent.com/56542714/132957498-e7e8c1eb-0102-4571-8888-979b04e2a493.gif)
+![Crappyshark listening netcat's packets sending a file containing hello's on localhost](https://user-images.githubusercontent.com/56542714/132957590-4a939e47-28c9-4570-82b8-585c08052f6c.gif)
+
 
 Crappyshark is a simple Linux packet sniffer. This has been done for educational purposes, and is loosely based on https://www.binarytides.com/packet-sniffer-code-in-c-using-linux-sockets-bsd-part-2/ (though commented...)
 
