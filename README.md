@@ -11,5 +11,5 @@ It listens to incoming and outgoing packets on all interfaces, and prints header
 Just use `gcc main.c -o crappyshark`
 
 # Running
-Run the executable as root (It needs to create a raw socket) without arguments. Optionally pipe the output to a file
+Run the executable as root (It needs to create a raw socket) without arguments. Optionally pipe the output to a file. Close with Ctrl-C.
 
